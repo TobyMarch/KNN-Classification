@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:28:04 GMT
+Server=Apache
+LB-Server=WEB02
+Set-Cookie=cookieb2evosession=11087684_UiBMaxyB2tc9KyTE8oAqhAtHZok2pflv; expires=Mon, 11-Mar-2024 02:28:04 GMT; path=/current/; domain=.georgejones.com
+Content-Length=5593
+Keep-Alive=timeout=5, max=100
+Connection=Keep-Alive
+Content-Type=text/html

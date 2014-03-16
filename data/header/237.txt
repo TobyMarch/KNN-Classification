@@ -1,0 +1,18 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Cache-control=no-cache="set-cookie"
+Content-Type=text/html
+Date=Fri, 14 Mar 2014 02:21:05 GMT
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Pragma=no-cache
+Server=Apache
+Set-Cookie=ZDEDebuggerPresent=php,phtml,php3; path=/
+Set-Cookie=PHPSESSID=de7b41be56e5dff51d656c29dfb2e70a; path=/; domain=.metacafe.com
+Set-Cookie=User=%7B%22LEID%22%3A84%7D; expires=Wed, 13-Mar-2019 02:21:05 GMT; path=/; domain=.metacafe.com
+Set-Cookie=User=%7B%22LEID%22%3A84%2C%22LangID%22%3A%22en%22%7D; expires=Wed, 13-Mar-2019 02:21:05 GMT; path=/; domain=.metacafe.com
+Set-Cookie=User=%7B%22LEID%22%3A84%2C%22LangID%22%3A%22en%22%2C%22sc%22%3A1%2C%22visitID%22%3A%22bdd90586e83188f8d38c78f4977cbf65%22%2C%22npUserLocations%22%3A%5B244%5D%2C%22npUserLanguages%22%3A%5B0%2C9%5D%2C%22ffilter%22%3Atrue%2C%22pve%22%3A1%2C%22fbconnected%22%3Afalse%7D; expires=Wed, 13-Mar-2019 02:21:05 GMT; path=/; domain=.metacafe.com
+Set-Cookie=AWSELB=07A7DDE10CEF78910428F7236F9657028EA83F29779652A4A1C97F650BF841A9974EE90B8C18B599E1BD513379686791B6A5D627646330DA2D5970427F40FB776F22A9900B;PATH=/;MAX-AGE=3600
+Vary=Accept-Encoding,User-Agent
+X-Powered-By=PHP/5.3.22-dev
+transfer-encoding=chunked
+Connection=keep-alive

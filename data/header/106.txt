@@ -1,0 +1,7 @@
+Server HTTP version, Response code: HTTP/1.1 303 See Other
+Date=Fri, 14 Mar 2014 02:17:38 GMT
+Server=Apache
+Location=https://myaccount.nytimes.com/auth/login?URI=www-nc.nytimes.com/2012/03/10/arts/music/a-band-called-fun-with-a-period.html&REFUSE_COOKIE_ERROR=SHOW_ERROR
+Content-Length=364
+Connection=close
+Content-Type=text/html; charset=iso-8859-1

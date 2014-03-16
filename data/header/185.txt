@@ -1,0 +1,16 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:19:47 GMT
+Status=200 OK
+X-Frame-Options=SAMEORIGIN
+X-XSS-Protection=1; mode=block
+X-Content-Type-Options=nosniff
+X-UA-Compatible=chrome=1
+Cache-Control=no-cache
+Content-Type=text/html; charset=utf-8
+X-Request-Id=c31e88c3-943c-43d6-b7e0-c4961cf8454d
+X-Runtime=0.022707
+Set-Cookie=split_test_identifier=ca2cbbbb138f021ca4b3027bb178dc52a076891e; domain=.songkick.com; path=/; expires=Sat, 14 Mar 2015 02:19:47 -0000
+Set-Cookie=_skweb_session=amhFK3AxdlhjL0lSNDE4YjZuekg5aWViUE9tSHZISE12N3Z2YXd2c2VvM2VMVEVVTHRGc3lXUlhUekJqMThMMEk1YTA4VFVkZWxLblNkd1RrbVFhM1RpcmFxOHpVUkRsYXJqNHYzTlFTQWlML1BIcXJVYUlnWUJRSXFjMktRTjZLRHVUWVAyMkRIREJNdm5RR2lRU3VVcHNzZ0lkYkZXQ1NMa0I5WXRTOHVLOFdvUmN2d25FUldoYWVibDNYaG54cnBZV0dDTDVwNndKaDZDbm0ydWM5eVY1Z0FIZVhsZTJ5eUdSTDI0K0hRbz0tLWtQc0xFNWN1NVUyRmdJb2ZLTG1hWkE9PQ%3D%3D--4be856d9c4207e2e122e390f049b629f36ad7750; path=/; HttpOnly
+Vary=Accept-Encoding
+Connection=close
+Transfer-Encoding=chunked

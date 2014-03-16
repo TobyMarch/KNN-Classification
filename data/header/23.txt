@@ -1,0 +1,16 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:15:07 GMT
+P3P=policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+X-Frame-Options=SAMEORIGIN
+X-Content-Type-Options=NOSNIFF
+X-XSS-Protection=1; mode=block
+Imagetoolbar=
+Set-Cookie=answers=Xw261lTYlPfTxBRvjSlpXPy90qi3gy3olnOFqB1BPpNEtPVdD5U5KKLlPK._u475s2WDMZb4MP6TLOlREZ7CsjyX0A3qOaBAXFmdxJOVUgDr2IW6Uo9QF5xVhZnBpCRbAvESfTsgYHD5811DlcySk9Hmy7NPEMq84YgGP24oklwL3L_AUMnclN0Z22A663GbJJZZOFS5daAxIfeTcZxggTWygvN5OPS5KqCN7t_EtPDeUbGRZWtlnf5v6ufKEO8hoowsLmtwBRvf0nKbBWUmHID9kr6HvriHAWenTEURWAF2XnSOcg8.rf81epN8oxSN_qJo.Rc3ZufLFVkl0Fo4VcwnDqe8CgQ.xlYf2guX4lSOmM75p8Vut6oZbt4ErOUF8.ulWEbX31j0N_m6GYCesrbGmwsU.9OnV20TUnYFe8DJGAIqvkVno0FqrGR0hC1Nug2CCV7.Cht7rdJ7U_VHGcuoTBuxrO9dAU4TstzjGEwE0mx2v1fY0oE-; expires=Sat, 14-Mar-2015 02:15:08 GMT; path=/; domain=.answers.yahoo.com
+Vary=Accept-Encoding
+Content-Type=text/html; charset=utf-8
+Cache-Control=private
+Age=3
+Server=ATS
+Transfer-Encoding=chunked
+Connection=keep-alive
+Via=http/1.1 r21.ycpi.ac4.yahoo.net (ApacheTrafficServer/4.0.2 [cMsSf ])

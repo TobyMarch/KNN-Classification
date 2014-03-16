@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:14:52 GMT
+Server=Apache/2.2.15 (CentOS)
+X-Powered-By=PHP/5.3.3
+Set-Cookie=exp_last_visit=1079403292; expires=Sat, 14-Mar-2015 02:14:52 GMT; path=/
+Set-Cookie=exp_last_activity=1394763292; expires=Sat, 14-Mar-2015 02:14:52 GMT; path=/
+Set-Cookie=exp_tracker=a%3A1%3A%7Bi%3A0%3Bs%3A5%3A%22index%22%3B%7D; path=/
+Expires=Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified=Fri, 14 Mar 2014 02:14:52 GMT
+Pragma=no-cache
+Connection=close
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

@@ -1,0 +1,22 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=nginx/1.4.3
+Content-Type=text/html; charset=utf-8
+Status=200 OK
+X-Backend=rails
+X-Action=explore/tag
+X-No-Client-Cache=1
+X-Data-Request=0
+X-UA-Compatible=IE=Edge,chrome=1
+X-Request-Id=24330f00d04137fe17d6d69ea71e5663
+X-Runtime=0.529658
+Access-Control-Allow-Methods=POST
+X-Backend=nginx
+X-Data-Request=2
+Cache-Control=max-age=0, no-cache, must-revalidate
+Transfer-Encoding=chunked
+Date=Fri, 14 Mar 2014 02:19:03 GMT
+Age=800
+Via=1.1 varnish
+Connection=keep-alive
+X-Cache=HIT
+Access-Control-Allow-Origin=*

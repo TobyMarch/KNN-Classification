@@ -1,0 +1,10 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=nginx
+Content-Type=text/html; charset=utf-8
+Transfer-Encoding=chunked
+Date=Fri, 14 Mar 2014 02:20:32 GMT
+X-Varnish=967557433 967557414
+Age=0
+Via=1.1 varnish
+Connection=keep-alive
+X-F=1

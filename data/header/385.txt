@@ -1,0 +1,11 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Access-Control-Allow-Origin=*
+Content-Type=text/html; charset=UTF-8
+Date=Fri, 14 Mar 2014 02:25:19 GMT
+Last-Modified=Fri, 14 Mar 2014 02:25:18 GMT
+Server=Apache/2.2.22 (Ubuntu)
+Vary=Cookie,User-Agent,Accept-Encoding
+X-Pingback=http://www.ticketsarasota.com/xmlrpc.php
+X-Powered-By=PHP/5.3.10-1ubuntu3.4
+transfer-encoding=chunked
+Connection=keep-alive

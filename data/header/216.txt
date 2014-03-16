@@ -1,0 +1,14 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:20:35 GMT
+Server=Apache
+Cache-Control=private, no-cache="set-cookie"
+Expires=0
+Pragma=no-cache
+Set-Cookie=phpbb3_m6g1m_u=1; expires=Sat, 14-Mar-2015 02:20:35 GMT; path=/; domain=.pedrothelion.org; HttpOnly
+Set-Cookie=phpbb3_m6g1m_k=; expires=Sat, 14-Mar-2015 02:20:35 GMT; path=/; domain=.pedrothelion.org; HttpOnly
+Set-Cookie=phpbb3_m6g1m_sid=bcd46eb805fd44de8c8e0de31aa66180; expires=Sat, 14-Mar-2015 02:20:35 GMT; path=/; domain=.pedrothelion.org; HttpOnly
+Vary=Accept-Encoding
+Keep-Alive=timeout=2, max=100
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

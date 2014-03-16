@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:28:20 GMT
+Server=Apache/2.2.15 (Red Hat)
+X-Powered-By=PHP/5.4.23
+Set-Cookie=gc_sess-1421=aih8e4seeeh4aim21rvf08na26; path=/; domain=.gretchenwilson.com
+X-GC-App=app03
+Cache-Control=no-cache, must-revalidate
+Expires=Sat, 10 May 2008 22:00:00 GMT
+X-GC-Write=19.37
+X-GC-Read=19.38
+Connection=close
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

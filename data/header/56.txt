@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=nginx
+Date=Fri, 14 Mar 2014 02:16:15 GMT
+Content-Type=text/html; charset=utf-8
+Transfer-Encoding=chunked
+Connection=close
+Vary=Accept-Encoding
+Set-Cookie=session=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Set-Cookie=s=3d6cb24d57491c071dae07854517db55f9fe3cfb%7Ej2vcdovrrDXzfmiJ%2FWEn1WJUVqKRb8c7yR7HbzazuW0nJ88tvBfsLYZx4in1Jo%2BjcSYQ%2BL4S; expires=Fri, 14-Mar-2014 14:16:15 GMT; Max-Age=43200; path=/

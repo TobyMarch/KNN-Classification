@@ -1,0 +1,14 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:21:52 GMT
+Server=Apache
+Last-Modified=Fri, 14 Mar 2014 02:01:43 GMT
+ETag="b8400e-289e-4f48773898fc0"
+Accept-Ranges=bytes
+Content-Length=10398
+Cache-Control=max-age=3, must-revalidate
+Expires=Fri, 14 Mar 2014 02:21:55 GMT
+Vary=Accept-Encoding,Cookie
+X-Powered-By=PleskLin
+MS-Author-Via=DAV
+Connection=close
+Content-Type=text/html; charset=UTF-8

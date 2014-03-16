@@ -1,0 +1,10 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:25:15 GMT
+Server=Microsoft-IIS/6.0
+X-Powered-By=ASP.NET
+X-AspNet-Version=2.0.50727
+X-Internal-Url=/templates/search/default.aspx?ourl=/search.html%3ft%3dGregg%2bAllman%2bBand%26tb%3d0&t=Gregg+Allman+Band&tb=0
+Set-Cookie=CVTriggerOverlay=membership-01|2h|/content/images/overlays/cv_vinylpromo_overlay.jpg; expires=Fri, 14-Mar-2014 03:25:14 GMT; path=/
+Cache-Control=private
+Content-Type=text/html; charset=utf-8
+Content-Length=585927

@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+Vary=
+X-Pingback=http://blogs.tennessean.com/tunein/xmlrpc.php
+Content-Type=text/html; charset=UTF-8
+Content-Length=135690
+Accept-Ranges=bytes
+X-Varnish=300678839 300678837
+Expires=Fri, 14 Mar 2014 02:26:12 GMT
+Cache-Control=max-age=0, no-cache, no-store
+Pragma=no-cache
+Date=Fri, 14 Mar 2014 02:26:12 GMT
+Connection=keep-alive

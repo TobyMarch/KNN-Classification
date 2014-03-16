@@ -1,0 +1,15 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=max-age=60
+Content-Type=text/html; charset=UTF-8
+Date=Fri, 14 Mar 2014 02:31:23 GMT
+Expires=Fri, 14 Mar 2014 02:32:23 GMT
+Last-Modified=Fri, 14 Mar 2014 02:31:22 GMT
+Link=<http://www.digitaltrends.com/?p=532043>; rel=shortlink
+Server=ECAcc (lga/1338)
+Vary=Accept-Encoding
+X-Cache=HIT
+X-DT-Cache=EXPIRED
+X-DT-LB-Host=lb-cache1.digitaltrends.com
+X-Pingback=http://www.digitaltrends.com/xmlrpc.php
+X-UA-Compatible=IE=edge
+Content-Length=77053

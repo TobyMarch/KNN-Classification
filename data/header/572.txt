@@ -1,0 +1,12 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=private, max-age=0, must-revalidate
+Content-Type=text/html; charset=utf-8
+Date=Fri, 14 Mar 2014 02:30:16 GMT
+Etag="2d40e32d21a275a8c618827132311eb1"
+Server=nginx/1.4.1
+Set-Cookie=_rapgenius_session=BAh7BzoPc2Vzc2lvbl9pZCIlZjU1ZmUxMTE1NmY2ZGZmMThlM2UxNTg3NGYzNTUxZGY6EF9jc3JmX3Rva2VuIjFCV3N1c2h5QXhLVzhQc2M4U0orZ21uL0Z4TURwZlUvQjR0TUJSeXc1VkVRPQ%3D%3D--9961024caaafb808de035af754f769deff634538; domain=.rapgenius.com; path=/; HttpOnly
+Status=200 OK
+X-Frame-Options=SAMEORIGIN
+X-Runtime=55
+Content-Length=67782
+Connection=keep-alive

@@ -1,0 +1,18 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Last-Modified=Fri, 14 Mar 2014 02:28:03 GMT
+x-apple-translated-wo-url=/WebObjects/MZStore.woa/wa/viewArtist?id=17488&cc=us&urlDesc=/george-jones
+x-apple-orig-url=https://itunes.apple.com/us/artist/george-jones/id17488
+x-apple-application-site=ST11
+apple-timing-app=1285 ms
+x-apple-aka-ttl=Generated Thu Mar 13 19:28:03 PDT 2014, Expires Thu Mar 13 19:29:03 PDT 2014, TTL 60s
+x-apple-application-instance=2125129
+Content-Type=text/html; charset=UTF-8
+x-webobjects-loadaverage=0
+x-apple-jingle-correlation-key=FJELQ6JLV7QXA
+Server=ATS/4.1.0
+Cache-Control=no-transform, max-age=56
+Date=Fri, 14 Mar 2014 02:28:03 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+X-Apple-Partner=origin.0

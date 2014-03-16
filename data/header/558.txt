@@ -1,0 +1,19 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+Set-Cookie=wab_test=wab%3Dt8308; path=/; domain=.answers.com
+Set-Cookie=acache=1d46a17ec16c2eda055a90f771b9e1ff198e6868
+Set-Cookie=PHPSESSID=jllt708dovd975fvg8qd1hefv2; path=/; domain=.answers.com
+Pragma=no-cache
+Set-Cookie=mode_id=-1; path=/; domain=.answers.com
+Set-Cookie=adc=NJ1; path=/;
+Vary=Accept-Encoding
+Content-Type=text/html; charset=utf-8
+Content-Length=76051
+Date=Fri, 14 Mar 2014 02:29:46 GMT
+X-Varnish=1886637915
+Age=0
+Via=1.1 varnish
+Connection=keep-alive
+Expires=Tue, 16 Jan 2001 00:00:00 GMT
+Cache-Control=private, must-revalidate, s-maxage=0, max-age=0
+Set-Cookie=answ_lt_persist=1091047434.20480.0000; path=/

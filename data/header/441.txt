@@ -1,0 +1,15 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+X-Source-Host=428821-webpwb06.myplaydirect.com
+Cache-Control=public, max-age=900
+Last-Modified=Fri, 14 Mar 2014 02:26:49 +0000
+Expires=Sun, 11 Mar 1984 12:00:00 GMT
+Vary=Cookie, Accept-Encoding
+ETag="1394764009"
+P3P=CP=HONK
+Content-Type=text/html; charset=utf-8
+Content-Length=58964
+Accept-Ranges=bytes
+Date=Fri, 14 Mar 2014 02:26:51 GMT
+Age=0
+Connection=keep-alive

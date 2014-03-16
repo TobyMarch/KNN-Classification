@@ -1,0 +1,11 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+X-Powered-By=PHP/5.5.0
+Access-Control-Allow-Origin=*
+Content-Type=text/html;;charset=UTF-8
+Cache-Control=max-age=0
+Expires=Fri, 14 Mar 2014 02:20:29 GMT
+Date=Fri, 14 Mar 2014 02:20:29 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding

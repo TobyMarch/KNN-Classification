@@ -1,0 +1,23 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+X-Source-Host=428821-webpwb06.myplaydirect.com
+Cache-Control=public, max-age=900
+Last-Modified=Fri, 14 Mar 2014 02:19:20 +0000
+Expires=Sun, 11 Mar 1984 12:00:00 GMT
+Vary=Cookie, Accept-Encoding
+ETag="1394763560"
+P3P=CP=HONK
+Content-Type=text/html; charset=utf-8
+X-V-I-TTL=1200
+X-Req-Host=www.carrieunderwoodofficial.com
+X-Req-Url=/us/videos
+X-Created=Fri, 14 Mar 2014 02:19:20 GMT
+Content-Length=39628
+Accept-Ranges=bytes
+Date=Fri, 14 Mar 2014 02:26:53 GMT
+X-Varnish=992619665 992561841
+Age=451
+Via=1.1 varnish
+Connection=keep-alive
+X-V-Outer=HIT
+X-V-TTL=749

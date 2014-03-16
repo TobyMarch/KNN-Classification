@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:15:57 GMT
+Server=Apache/2.2.9 (Fedora)
+X-Powered-By=PHP/5.2.6
+Set-Cookie=PHPSESSID=254o90ujp00ds9psaajuh8d501; path=/
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma=no-cache
+Set-Cookie=site_partner=bush4; expires=Sun, 13-Apr-2014 02:15:57 GMT; path=/
+Keep-Alive=timeout=30, max=499
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

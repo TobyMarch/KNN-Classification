@@ -1,0 +1,15 @@
+Server HTTP version, Response code: HTTP/1.0 200 OK
+Date=Fri, 14 Mar 2014 02:15:16 GMT
+Server=Apache/2.2.15 (CentOS)
+X-Powered-By=PHP/5.3.3
+Set-Cookie=exp_last_visit=1079403316; expires=Sat, 14-Mar-2015 02:15:16 GMT; path=/
+Set-Cookie=exp_last_activity=1394763316; expires=Sat, 14-Mar-2015 02:15:16 GMT; path=/
+Set-Cookie=exp_tracker=a%3A1%3A%7Bi%3A0%3Bs%3A39%3A%22house%2Farticle%2Ftop-10-bjork-music-videos%22%3B%7D; path=/
+Cache-Control=max-age=12200, must-revalidate
+Expires=Fri, 14 Mar 2014 04:15:16 GMT
+Vary=Accept-Encoding
+Content-Type=text/html; charset=UTF-8
+X-Cache=MISS from www.slantmagazine.com
+X-Cache-Lookup=HIT from www.slantmagazine.com:80
+Via=1.0 www.slantmagazine.com (squid/3.1.10)
+Connection=close

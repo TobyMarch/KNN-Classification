@@ -1,0 +1,19 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Mongrel 1.1.5
+Status=200
+ETag="79c17b4ac19dc57ee2d9e1e124d4be70"
+webserver=www4
+X-Runtime=51
+Content-Type=text/html; charset=utf-8
+Cache-Control=private, max-age=0, must-revalidate
+Set-Cookie=muzuud=%7B%22adTags%22%3A%22login%3Dno%3B%22%7D; path=/; expires=Sun, 14-Sep-2014 02:21:06 GMT
+Set-Cookie=muzuud=%7B%22adTags%22%3A%22login%3Dno%3B%22%7D; path=/; expires=Sun, 14-Sep-2014 02:21:06 GMT
+Set-Cookie=_muzucjjh=a85901f76bcbd6cfed8c09ada959629e; path=/; HttpOnly
+Vary=Accept-Encoding
+Content-Length=43189
+Date=Fri, 14 Mar 2014 02:21:06 GMT
+X-Varnish=1183461614
+Age=0
+Via=1.1 varnish
+Connection=keep-alive
+X-Cache=MISS

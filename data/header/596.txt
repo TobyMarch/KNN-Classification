@@ -1,0 +1,16 @@
+Server HTTP version, Response code: HTTP/1.0 200 OK
+Date=Fri, 14 Mar 2014 02:30:52 GMT
+Server=Apache/2.2.22 (Ubuntu)
+X-Powered-By=PHP/5.4.20-1+debphp.org~precise+1
+Set-Cookie=allmusic_session=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%226fcc5d00c22d1cf665a613659720f130%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%2210.10.62.13%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A13%3A%22Java%2F1.6.0_65%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1394764252%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7Da61939cb4fb102e63d3a6617a1bc6e0d; path=/
+Set-Cookie=allmusic_session=a%3A6%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%226fcc5d00c22d1cf665a613659720f130%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A11%3A%2210.10.62.13%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A13%3A%22Java%2F1.6.0_65%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1394764252%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3Bs%3A4%3A%22user%22%3Bi%3A0%3B%7D4bb8d3e32a3b03f318e4437d2c7151ff; path=/
+Expires=Fri, 14 Mar 2014 14:30:54 GMT
+Cache-Control=maxage=43200
+Vary=Accept-Encoding
+Content-Type=text/html; charset=UTF-8
+X-Cache=MISS from isquid03.allmusic.amn
+X-Cache-Lookup=MISS from isquid03.allmusic.amn:80
+X-Cache=MISS from esquid02.allmusic.amn
+X-Cache-Lookup=MISS from esquid02.allmusic.amn:80
+Via=1.0 isquid03.allmusic.amn (squid/3.1.23), 1.0 esquid02.allmusic.amn (squid/3.1.23)
+Connection=close

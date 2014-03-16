@@ -1,0 +1,8 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=private
+Content-Type=text/html; charset=utf-8
+Server=Microsoft-IIS/7.5
+Set-Cookie=ASP.NET_SessionId=vcqrba55l25xgo452lqtvp45; path=/; HttpOnly
+Set-Cookie=ii_Globalisation=Create=1&ShowFlyOver=&ShowFlyOverCount=&LocationID=2&LocationISO=US; expires=Sat, 14-Mar-2015 02:20:03 GMT; path=/
+Date=Fri, 14 Mar 2014 02:20:02 GMT
+Content-Length=15635

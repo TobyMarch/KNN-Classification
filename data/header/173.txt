@@ -1,0 +1,18 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Last-Modified=Fri, 14 Mar 2014 02:19:30 GMT
+x-apple-translated-wo-url=/WebObjects/MZStore.woa/wa/viewArtist?id=755615&cc=us&urlDesc=/modern-english
+x-apple-orig-url=https://itunes.apple.com/us/artist/modern-english/id755615
+x-apple-application-site=ST11
+apple-timing-app=416 ms
+x-apple-aka-ttl=Generated Thu Mar 13 19:19:30 PDT 2014, Expires Thu Mar 13 19:20:30 PDT 2014, TTL 60s
+x-apple-application-instance=2126692
+Content-Type=text/html; charset=UTF-8
+x-webobjects-loadaverage=0
+x-apple-jingle-correlation-key=WTTXESP7KTF52
+Server=ATS/4.1.0
+Cache-Control=no-transform, max-age=56
+Date=Fri, 14 Mar 2014 02:19:30 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+X-Apple-Partner=origin.0

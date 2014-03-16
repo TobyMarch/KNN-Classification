@@ -1,0 +1,11 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:31:10 GMT
+Server=Apache/2.2.21 (Amazon)
+X-Powered-By=PHP/5.3.26
+Set-Cookie=PHPSESSID=bf1sifhcv998iomaoq8ult2bl2; path=/
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control=no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma=no-cache
+Connection=close
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

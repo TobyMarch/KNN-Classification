@@ -1,0 +1,14 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache/2.2.22 (Unix)
+X-Web-Node=www238
+Content-Type=text/html; charset=utf-8
+Expires=Fri, 14 Mar 2014 02:31:38 GMT
+Cache-Control=max-age=0, no-cache, no-store
+Pragma=no-cache
+Date=Fri, 14 Mar 2014 02:31:38 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+Set-Cookie=AnonSession=b600b88b15e95d3bbcd7fc91a12cf83a-a91bc8047d566501d1126cad28f1f4a2a59fc2f89e818aac67a48daedeea13db; expires=Mon, 12-Feb-2024 14:31:38 GMT; path=/; domain=.last.fm
+Set-Cookie=AnonTrack=5fac20ad5eb32f949086ba5b1f20b54e; expires=Mon, 09-Mar-2015 02:31:38 GMT; path=/; domain=.last.fm
+Set-Cookie=FirstVisit=1394764298; path=/; domain=.last.fm

@@ -1,0 +1,12 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:16:18 GMT
+Server=Server
+X-Frame-Options=SAMEORIGIN
+Content-Type=text/html;charset=UTF-8
+Content-Language=en-US
+Vary=Accept-Encoding,User-Agent
+Set-Cookie=uu=BCYtmRfMMI3Z3cj5MKKhAr2Zj_1HiCcNJ0AinZJeYW2D2qEJRarRd7JvQEp_Lr6qg7tx-VFLpIxe%0D%0AKwX6ZQB1uwnW6X3GWWfoiA5Qj_9rtetJhicEr8Ai71dT67cwXP0qqeg92hWRu4hz1F0tbDu7T3VX%0D%0ALxr2xr7f4RDsz801mHybO-RXHZCZo8f0hOkltjfM_BWaGK-0YuxuUdqx-Ruu4Qtt4GRjE10RF-m7%0D%0AjVs7vKqq_q4-gs69MXo1O0zOrE6n6tmo0yruUSeTbAKjxZOIIJaVUA%0D%0A; Domain=.imdb.com; Expires=Wed, 01-Apr-2082 05:30:25 GMT; Path=/
+Set-Cookie=session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 01-Apr-2082 05:30:25 GMT; Path=/
+Set-Cookie=session-id-time=1552443378; Domain=.imdb.com; Expires=Wed, 01-Apr-2082 05:30:25 GMT; Path=/
+P3P=policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding=chunked

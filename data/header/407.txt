@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Netscape-Enterprise/4.1
+Date=Fri, 14 Mar 2014 02:26:05 GMT
+Set-cookie=SaneID=76.78.3.114-1394763966206; path=/; expires=Thu, 13-Mar-24 20:26:06 GMT
+Content-type=text/html
+Etag="3e64f30a-20f-1850-4a54e300"
+Last-modified=Wed, 08 Jul 2009 18:18:40 GMT
+Content-length=6224
+Accept-ranges=bytes

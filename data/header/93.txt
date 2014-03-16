@@ -1,0 +1,7 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:17:21 GMT
+Server=Apache
+X-Powered-By=PleskLin
+Connection=close
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=utf-8

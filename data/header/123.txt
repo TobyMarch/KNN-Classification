@@ -1,0 +1,7 @@
+Server HTTP version, Response code: HTTP/1.1 303 See Other
+Date=Fri, 14 Mar 2014 02:18:04 GMT
+Server=Apache
+Location=https://myaccount.nytimes.com/auth/login?URI=www-nc.nytimes.com/2006/09/19/arts/music/19smog.html&REFUSE_COOKIE_ERROR=SHOW_ERROR
+Content-Length=339
+Connection=close
+Content-Type=text/html; charset=iso-8859-1

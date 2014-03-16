@@ -1,0 +1,6 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Netscape-Enterprise/4.1
+Date=Fri, 14 Mar 2014 02:28:45 GMT
+Content-type=text/html
+Connection=close
+Vary=Accept-Encoding, User-Agent

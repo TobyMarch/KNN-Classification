@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:18:39 GMT
+Server=Apache
+Set-Cookie=exp_last_visit=1079403519; expires=Sat, 14-Mar-2015 02:18:39 GMT; path=/
+Set-Cookie=exp_last_activity=1394763519; expires=Sat, 14-Mar-2015 02:18:39 GMT; path=/
+Set-Cookie=exp_tracker=a%3A1%3A%7Bi%3A0%3Bs%3A5%3A%22index%22%3B%7D; path=/
+Expires=Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified=Fri, 14 Mar 2014 02:18:39 GMT
+Pragma=no-cache
+X-Powered-By=PleskLin
+Connection=close
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=utf-8

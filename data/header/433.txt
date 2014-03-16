@@ -1,0 +1,21 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Accept-Ranges=bytes
+Age=0
+Cache-Control=public, max-age=0
+Content-Language=en
+Content-Type=text/html; charset=utf-8
+Date=Fri, 14 Mar 2014 02:26:39 GMT
+Etag="1394761769-0"
+Expires=Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified=Fri, 14 Mar 2014 01:49:29 GMT
+Link=</music/country-music-209>; rel="canonical",</node/209>; rel="shortlink"
+Server=nginx
+Vary=Cookie,Accept-Encoding
+Via=1.1 varnish
+X-AH-Environment=prod
+X-Cache=MISS
+X-Drupal-Cache=HIT
+X-Generator=Drupal 7 (http://drupal.org)
+X-Varnish=774825346
+Content-Length=77486
+Connection=keep-alive

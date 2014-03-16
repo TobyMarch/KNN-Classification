@@ -1,0 +1,17 @@
+Server HTTP version, Response code: HTTP/1.1 200
+Cache-Control=private, no-cache, no-store, must-revalidate
+Content-Type=text/html; charset=utf-8
+Date=Fri, 14 Mar 2014 02:23:59 GMT
+Expires=Sat, 01 Jan 2000 00:00:00 GMT
+P3P=CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Pragma=no-cache
+Set-Cookie=reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2Fofficialedgarwinter; path=/; domain=.facebook.com
+Set-Cookie=reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2Fofficialedgarwinter; path=/; domain=.facebook.com
+Set-Cookie=reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie=datr=P2giU01zwXj4kp3d1wgskWMr; expires=Sun, 13-Mar-2016 02:23:59 GMT; path=/; domain=.facebook.com; httponly
+X-Content-Type-Options=nosniff
+X-Frame-Options=DENY
+X-XSS-Protection=0
+X-FB-Debug=4FUZOv4r7q0WddREZyvGprtKvYxVizUCBHrh3FQhIXU=
+Transfer-Encoding=chunked
+Connection=keep-alive

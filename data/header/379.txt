@@ -1,0 +1,12 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=nginx
+Date=Fri, 14 Mar 2014 02:25:06 GMT
+Content-Type=text/html;charset=UTF-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Vary=Accept-Encoding
+Set-Cookie=JSESSIONID=1dfcddd6qggck1pr1d0wp6dp0f;Path=/;HttpOnly
+Expires=Thu, 01 Jan 1970 00:00:00 GMT
+Content-Language=en
+Pragma=no-cache
+Cache-Control=no-cache, max-age=0, must-revalidate

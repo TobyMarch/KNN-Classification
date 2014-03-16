@@ -1,0 +1,17 @@
+Server HTTP version, Response code: HTTP/1.1 200
+Cache-Control=private, no-cache, no-store, must-revalidate
+Content-Type=text/html; charset=utf-8
+Date=Fri, 14 Mar 2014 02:20:00 GMT
+Expires=Sat, 01 Jan 2000 00:00:00 GMT
+P3P=CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Pragma=no-cache
+Set-Cookie=reg_fb_gate=https%3A%2F%2Fwww.facebook.com%2FMuseMusicCafe; path=/; domain=.facebook.com
+Set-Cookie=reg_fb_ref=https%3A%2F%2Fwww.facebook.com%2FMuseMusicCafe; path=/; domain=.facebook.com
+Set-Cookie=reg_ext_ref=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com
+Set-Cookie=datr=UGciUwb8ik9k097GSfodCyOK; expires=Sun, 13-Mar-2016 02:20:00 GMT; path=/; domain=.facebook.com; httponly
+X-Content-Type-Options=nosniff
+X-Frame-Options=DENY
+X-XSS-Protection=0
+X-FB-Debug=KdXW0KJvwBwjiy7Vb5xJxxU+tTdbX1uq7doDlM6RwLk=
+Transfer-Encoding=chunked
+Connection=keep-alive

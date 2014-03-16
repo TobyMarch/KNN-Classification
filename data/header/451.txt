@@ -1,0 +1,18 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Last-Modified=Fri, 14 Mar 2014 02:27:04 GMT
+x-apple-translated-wo-url=/WebObjects/MZStore.woa/wa/viewArtist?id=313387&cc=us&urlDesc=/deana-carter
+x-apple-orig-url=https://itunes.apple.com/us/artist/deana-carter/id313387
+x-apple-application-site=NWK
+apple-timing-app=509 ms
+x-apple-aka-ttl=Generated Thu Mar 13 19:27:04 PDT 2014, Expires Thu Mar 13 19:28:04 PDT 2014, TTL 60s
+x-apple-application-instance=1011108
+Content-Type=text/html; charset=UTF-8
+x-webobjects-loadaverage=0
+x-apple-jingle-correlation-key=G2EP7GCTACYQY
+Server=ATS/4.1.0
+Cache-Control=no-transform, max-age=59
+Date=Fri, 14 Mar 2014 02:27:04 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+X-Apple-Partner=origin.0

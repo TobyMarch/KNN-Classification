@@ -1,0 +1,18 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+X-Powered-By=PHP/5.4.14
+Expires=Fri, 14 Mar 2014 04:22:31 GMT
+Vary=User-Agent,Accept-Encoding
+X-Frame-Options=SAMEORIGIN
+X-UA-Compatible=IE=edge
+X-DNS-Prefetch-Control=on
+Content-Type=text/html; charset=UTF-8
+Transfer-Encoding=chunked
+Date=Fri, 14 Mar 2014 02:22:31 GMT
+X-Varnish=842658990
+Age=0
+Via=1.1 varnish
+Cache-Control=no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+X-Varnish-Cache=0
+nnCoection=close
+X-VServer=10.90.128.196

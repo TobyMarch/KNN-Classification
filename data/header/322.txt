@@ -1,0 +1,16 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=public, s-maxage=14400, max-age=120
+Content-Language=en
+Content-Type=text/html; charset=utf-8
+Date=Fri, 14 Mar 2014 02:23:22 GMT
+Etag="1394753795-0+ident"
+Expires=Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified=Thu, 13 Mar 2014 23:36:35 +0000
+Link=<http://www.billboard.com/articles/news/42258/drift-away-singer-dobie-gray-dies>; rel="canonical",<http://www.billboard.com/node/42258>; rel="shortlink"
+Server=ECS (ewr/158C)
+Vary=Accept-Encoding
+X-Cache=HIT
+X-Drupal-Cache=MISS
+X-Generator=Drupal 7 (http://drupal.org)
+X-Trace=1B3D1237A3BCF9A42F6B836F6F4082541E279603DF37D34DF1FCEE8868
+Content-Length=82478

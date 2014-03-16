@@ -1,0 +1,11 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type=text/html
+Date=Fri, 14 Mar 2014 02:26:29 GMT
+Expires=Thu, 19 Nov 1981 08:52:00 GMT
+Pragma=no-cache
+Server=Apache
+Set-Cookie=bampSID=j7jdpa6lag3idign6ubhsi6v33; path=/
+Vary=Accept-Encoding
+transfer-encoding=chunked
+Connection=keep-alive

@@ -1,0 +1,20 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Accept-Ranges=bytes
+Cache-Control=max-age=300
+Content-Type=text/html; charset=utf-8
+Date=Fri, 14 Mar 2014 02:22:04 GMT
+Etag="82c49a24cabe5d72b3852acc46c8a508"
+Expires=Fri, 14 Mar 2014 02:27:03 UTC
+Last-Modified=Thu, 13 Mar 2014 23:44:21 GMT
+Server=ECS (lga/13B1)
+Status=200 OK
+Vary=Accept-Encoding
+Via=1.1 varnish
+X-Cache=HIT
+X-Request-Id=c4ff42b7a19b598aae4b643f48c8a4cf
+X-Runtime=0.310674
+X-Storyteller-Resources=3
+X-Storyteller-Site=218
+X-UA-Compatible=IE=Edge,chrome=1
+X-Varnish=775592008
+Content-Length=13834

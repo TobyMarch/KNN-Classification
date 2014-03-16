@@ -1,0 +1,6 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=nginx/1.0.14
+Date=Fri, 14 Mar 2014 02:22:30 GMT
+Content-Type=text/html; charset=utf-8
+Transfer-Encoding=chunked
+Connection=close

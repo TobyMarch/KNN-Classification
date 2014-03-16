@@ -1,0 +1,10 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:25:38 GMT
+Server=Server
+x-amz-id-1=196KD5QDGBX5K1XY2MCT
+p3p=policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-frame-options=SAMEORIGIN
+x-amz-id-2=2BT5pbSR2plqgJmo7rpJXmLrQsU6yiO5C76LqwHnUP4bjQRQK/pfJWEtc3DYpdpZ
+Vary=Accept-Encoding,User-Agent
+Content-Type=text/html; charset=ISO-8859-1
+Transfer-Encoding=chunked

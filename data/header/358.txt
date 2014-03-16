@@ -1,0 +1,15 @@
+Server HTTP version, Response code: HTTP/1.0 200 OK
+Date=Thu, 13 Mar 2014 22:00:12 GMT
+Server=Apache/2.2.22 (Ubuntu)
+X-Powered-By=PHP/5.4.20-1+debphp.org~precise+1
+Expires=Fri, 14 Mar 2014 10:00:14 GMT
+Cache-Control=maxage=43200
+Vary=Accept-Encoding
+Content-Type=text/html; charset=UTF-8
+X-Cache=MISS from isquid03.allmusic.amn
+X-Cache-Lookup=MISS from isquid03.allmusic.amn:80
+Age=15849
+X-Cache=HIT from esquid02.allmusic.amn
+X-Cache-Lookup=HIT from esquid02.allmusic.amn:80
+Via=1.0 isquid03.allmusic.amn (squid/3.1.23), 1.0 esquid02.allmusic.amn (squid/3.1.23)
+Connection=close

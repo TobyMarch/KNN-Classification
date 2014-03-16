@@ -1,0 +1,19 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+X-Mod-Pagespeed=1.0.22.7-2289
+Cache-Control=max-age=0, no-cache
+Content-Type=text/html;charset=UTF-8
+Date=Fri, 14 Mar 2014 02:21:49 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+Set-Cookie=JSESSIONID=24AC341F480138A490F4AFD21EA4BC6E; Path=/
+Set-Cookie=dmid=be653c8f-0a5c-ad8d-17df-43e2bd87f989; Expires=Sun, 27-Jan-2019 02:21:49 GMT; Path=/
+Set-Cookie=ld_USR=0D194243B7E1605936CB98084FCC47E2073; Domain=ask.com; Expires=Sun, 13-Mar-2016 02:21:49 GMT; Path=/
+Set-Cookie=ld_SSN=041F4D42B4E1605936CB98084FCC47E2073; Domain=ask.com; Expires=Fri, 14-Mar-2014 02:51:49 GMT; Path=/
+Set-Cookie=ld_USR=0D134540BDE1605936CB98084FCC47E2073; Domain=ask.com; Expires=Sun, 13-Mar-2016 02:21:49 GMT; Path=/
+Set-Cookie=ld_SSN=0C1B474FB9E1605936CB98084FCC47E2073; Domain=ask.com; Expires=Fri, 14-Mar-2014 02:51:49 GMT; Path=/
+Set-Cookie=user="o=0&l=dir"; Version=1; Domain=ask.com; Path=/
+Set-Cookie=oo=102140; Domain=ask.com; Expires=Fri, 14-Mar-2014 02:51:49 GMT; Path=/
+Set-Cookie=uc="u=89EBD0C9-64EA-45CB-8E0F-E4F63C55F9ED&sn=seofe007iad.io.askjeeves.info&od=none&op=-&fv=1394763709582&lv=1394763709582&ok=-&nv=1"; Version=1; Domain=.ask.com; Max-Age=315000000; Expires=Wed, 06-Mar-2024 22:21:49 GMT; Path=/
+Set-Cookie=ucs="sk=-&sp=-&so=-&sd=none&sc=-&s=668520550&ap=-&am=-&an=-&sv=1394763709582&ad=dirN&ag=-&ps=1"; Version=1; Domain=.ask.com; Path=/

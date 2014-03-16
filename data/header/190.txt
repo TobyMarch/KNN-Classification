@@ -1,0 +1,8 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:19:52 GMT
+Server=Apache
+X-Pingback=http://musemusiccafe.com/xmlrpc.php
+Link=<http://wp.me/P1vHRm-2>; rel=shortlink
+Content-Type=text/html; charset=UTF-8
+Transfer-Encoding=chunked
+Via=1.1 vhost.phx2.nearlyfreespeech.net:3128 (squid/2.7.STABLE7)

@@ -1,0 +1,286 @@
+<!DOCTYPE
+html>
+<html>
+
+<head>
+
+
+
+<script
+type="text/javascript"
+src="http://www.google.com/jsapi"></script>
+
+
+
+<script
+type="text/javascript"
+src="http://api.wipmania.com/wip.js"></script>
+
+
+
+<script
+src="//widgets.awe.sm/v3/widgets.js?key=ccef6c075bc415d3013826d53a21042180035d205664e6c7cb54d3ce11602948"></script>
+
+
+
+<script
+type="text/javascript">
+function
+geoTest(){
+
+	var
+country_code='us';
+	var
+us
+=
+['US'];
+	var
+uk
+=
+['GB'];
+	var
+eu
+=
+['FR','GR','IT','IE','AT','BE','BG','CY','CZ','DK','EE','FI','DE','HU','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','GI','AL','AD','AM','AZ','BY','BA','HR','FO','GE','GL','IS','KZ','KG','LI','MK','MD','ME','NO','RU','SM','RS','CH','TJ','TR','TM','UA','UZ','VA'];
+	var
+row
+=
+['CA','MX','AG','AI','AR','AW','BS','BB','BZ','BM','BO','BR','KY','CL','CO','CR','DM','DO','EC','SV','GF','GT','GY','HT','HN','JM','MQ','AN','NI','PA','PY','PE','TC','UY','VE','VG','VI','AU','JP','BD','BT','BN','KH','CN','FJ','GU','HK','IN','ID','KR','LA','MO','MY','MN','MM','NP','NZ','MP','PK','PG','PH','SG','LK','TW','TH','VN','ZA','AF','AX','DZ','AS','AO','AQ','BH','BJ','BW','BV','IO','BF','BI','CM','CV','CF','TD','CX','CC','KM','CD','CK','CI','CU','DJ','EG','GQ','ER','ET','FK','PF','TF','GA','GM','GH','GD','GP','GG','GN','GW','HM','IR','IQ','IM','IL','JE','JO','KE','KI','KP','KW','LB','LS','LR','LY','MG','MW','MV','ML','MH','MR','MU','YT','FM','MC','MS','MA','MZ','NA','NR','NC','NE','NG','NU','NF','OM','PW','PS','PN','QA','RE','RW','BL','SH','KN','LC','MF','PM','VC','WS','ST','SA','SN','SC','SL','SB','SO','GS','SD','SR','SJ','SZ','SY','TZ','TL','TG','TK','TO','TT','TN','TV','UG','AE','UM','VU','WF','EH','YE','CG','ZM','ZW'];
+	if
+(typeof
+google!=="undefined"
+&&
+google.loader.ClientLocation!=null)
+
+	{
+		country_code
+=
+google.loader.ClientLocation.address.country_code;
+	}
+
+	else
+if(WIPlocation!=null)
+	{
+		country_code
+=
+WIPlocation.address.country_code;
+	}
+	country_code
+=
+country_code.toLowerCase();
+	
+	for
+(var
+i=0;
+i<us.length;
+i++)
+	{
+		if
+(country_code
+==
+us[i].toLowerCase())
+		{
+			window.location="/ep2-us/";
+			return;
+		}
+	}
+
+	for
+(var
+i=0;
+i<uk.length;
+i++)
+	{
+		if
+(country_code
+==
+uk[i].toLowerCase())
+		{
+			window.location
+=
+'/ep2-uk/';
+			return;
+		}
+	}
+	
+	for
+(var
+i=0;
+i<eu.length;
+i++)
+	{
+		if
+(country_code
+==
+eu[i].toLowerCase())
+		{
+			window.location
+=
+'/ep2-eu/';
+			return;
+		}
+	}
+	
+	for
+(var
+i=0;
+i<row.length;
+i++)
+	{
+		if
+(country_code
+==
+row[i].toLowerCase())
+		{
+			window.location
+=
+'/ep2-row/';
+			return;
+		}
+	}
+
+	window.location
+=
+'/ep2-us/';
+	return;
+}
+
+geoTest();
+
+</script>
+
+
+
+<!--
+Start
+Facebook
+Share
+Vars
+-->
+
+
+
+<meta
+name="medium"
+content="image"
+/>
+
+
+
+<!--
+Valid
+values
+for
+medium_type
+are
+"video",
+"audio",
+"image".
+-->
+
+
+
+<meta
+name="title"
+content="Get
+the
+brand-new
+4-track
+EP
+from
+PIXIES"
+/>
+
+
+
+<meta
+name="description"
+content="Download
+Now"
+/>
+
+
+
+<link
+rel="image_src"
+href="http://labs.topspin.net/daphne/fb_uploaded_files/fb_2f9706c2852a89649c08485ef78e9343.png"
+/>
+
+
+
+<meta
+property="og:title"
+content="Get
+the
+brand-new
+4-track
+EP
+from
+PIXIES"
+/>
+
+
+
+<meta
+property="og:description"
+content="Download
+Now"
+/>
+
+
+
+<meta
+property="og:image"
+content="http://labs.topspin.net/daphne/fb_uploaded_files/fb_2f9706c2852a89649c08485ef78e9343.png"
+/>
+
+
+
+<!--
+End
+Facebook
+Share
+Vars
+-->
+
+
+</head>
+
+
+<body>
+
+
+
+
+
+<!--
+Dynamic
+page
+generated
+in
+0.436
+seconds.
+-->
+
+
+
+<!--
+Cached
+page
+generated
+by
+WP-Super-Cache
+on
+2014-03-14
+02:20:43
+-->
+
+
+
+<!--
+super
+cache
+-->
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Eomportal-Instance=26
+Pragma=no-cache
+Content-Type=text/html;charset=UTF-8
+Server=Boston.com Frontend
+Served-By=hershel
+Vary=User-Agent
+Cache-Control=no-cache, no-store, must-revalidate
+Expires=Fri, 14 Mar 2014 02:22:13 GMT
+Date=Fri, 14 Mar 2014 02:22:13 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding

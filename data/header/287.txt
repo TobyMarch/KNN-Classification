@@ -1,0 +1,25 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+X-GU-jas=8422834b5a05527cf72d03a2f62723c8!1863019064@qtp-881581266-671
+Content-Type=text/html; charset=utf-8
+X-GU-gen-jas=33
+P3P=CP="CAO CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa CONa TELa OUR IND ONLi UNI PURi NAV STA PRE LOC"
+X-GU-PageRenderer=DefaultPageRenderer
+X-GU-tm=51
+Content-Language=en-GB
+X-GU-httpd=102539239
+Content-Length=150089
+Accept-Ranges=bytes
+Date=Fri, 14 Mar 2014 02:22:18 GMT
+Via=1.1 varnish
+Age=0
+Connection=keep-alive
+X-Cache=MISS
+X-GU-Edition=us
+X-Served-By=cache-v42-ASH
+X-GU-Varnish=MISS
+X-Cache-Hits=0
+Pragma=no-cache
+Cache-Control=no-cache
+Vary=Accept-Encoding,User-Agent
+X-GU-Platform=desktop

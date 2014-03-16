@@ -1,0 +1,8 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:18:29 GMT
+Server=Apache
+X-Pingback=http://www.travelingpictureshow.tv/xmlrpc.php
+Keep-Alive=timeout=15, max=99
+Connection=Keep-Alive
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

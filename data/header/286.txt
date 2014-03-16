@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=nginx/1.4.6
+Date=Fri, 14 Mar 2014 02:22:18 GMT
+Content-Type=text/html; charset=UTF-8
+Content-Length=45261
+Connection=keep-alive
+X-Powered-By=PHP/5.2.17
+Vary=Accept-Encoding,Cookie,User-Agent
+Cache-Control=max-age=3, must-revalidate
+WP-Super-Cache=Served supercache file from PHP
+Last-Modified=Fri, 14 Mar 2014 01:16:54 GMT
+Cache-Control=max-age=0
+Expires=Fri, 14 Mar 2014 02:22:17 GMT

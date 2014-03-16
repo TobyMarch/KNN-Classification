@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+Content-Length=143285
+Content-Type=text/html
+Set-Cookie=browsertype=web; expires=Sat, 15-Mar-2014 02:18:45 GMT; path=/; domain=.nme.com
+Set-Cookie=ipc_geo=US; path=/; domain=.nme.com
+X-IPC-BALANCEID=01
+NmeAkamaiMatch=1
+X-Cache-Info=caching
+IgniteAkamaiMatch=1
+Cache-Control=max-age=3600
+Date=Fri, 14 Mar 2014 02:18:45 GMT
+Connection=keep-alive

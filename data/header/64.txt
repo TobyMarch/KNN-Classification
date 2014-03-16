@@ -1,0 +1,12 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+Last-Modified=Sun, 02 Mar 2014 21:07:28 GMT
+ETag="3dfbde-1ffe-4f3a60ef68400"
+Vary=Accept-Encoding
+Content-Type=text/html; charset=UTF-8
+Transfer-Encoding=chunked
+Date=Fri, 14 Mar 2014 02:16:25 GMT
+X-Varnish=1569304594 1569303345
+Age=120
+Via=1.1 varnish
+Connection=keep-alive

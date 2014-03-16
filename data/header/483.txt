@@ -1,0 +1,14 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+Expires=Thu, 01 Jan 1970 00:00:00 GMT
+X-UA-Compatible=IE=Edge,chrome=1
+tr-request-id=UyJpJQpcqkEAAG4xLf4AAABL
+from-tr=trafrt003iad.io.askjeeves.info
+Content-Type=text/html;charset=UTF-8
+Date=Fri, 14 Mar 2014 02:27:49 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+Set-Cookie=user="o=0&l=dir";Version=1;Path=/;Domain=ask.com;Discard
+Set-Cookie=uc="u=8D14F19A-6FFB-4FAD-8ED6-7C0CE4A30567&sn=askus021iad.io.askjeeves.info&od=none&op=-&fv=1394764069379&lv=1394764069379&ok=-&nv=1";Version=1;Path=/;Domain=.ask.com;Expires=Wed, 06-Mar-2024 22:27:49 GMT;Max-Age=315000000
+Set-Cookie=ucs="sk=-&sp=-&so=-&sd=none&sc=-&s=308587039&ap=&am=&an=&ad=dirN&sv=1394764069379&ag=&ps=1&af=";Version=1;Path=/;Domain=.ask.com;Discard

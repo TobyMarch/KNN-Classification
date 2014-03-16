@@ -1,0 +1,14 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Content-Type=text/html; charset=UTF-8
+Date=Fri, 14 Mar 2014 02:31:39 GMT
+Expires=Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified=Fri, 14 Mar 2014 02:31:40 GMT
+Pragma=no-cache
+Server=Apache/2.4.6 (Amazon) PHP/5.4.23
+Set-Cookie=exp_last_visit=1079404299; expires=Sat, 14-Mar-2015 02:31:39 GMT; path=/
+Set-Cookie=exp_last_activity=1394764299; expires=Sat, 14-Mar-2015 02:31:39 GMT; path=/
+Set-Cookie=exp_tracker=a%3A1%3A%7Bi%3A0%3Bs%3A17%3A%22artists%2Finfo%2Fe-40%22%3B%7D; path=/
+Vary=Accept-Encoding,User-Agent
+X-Powered-By=PHP/5.4.23
+transfer-encoding=chunked
+Connection=keep-alive

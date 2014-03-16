@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=nginx/1.4.6
+Date=Fri, 14 Mar 2014 02:27:12 GMT
+Content-Type=text/html; charset=UTF-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+X-Pingback=http://tasteofcountry.com/xmlrpc.php
+X-Powered-By=W3 Total Cache/0.9.1.3
+Link=<http://tasteofcountry.com/?p=57388>; rel=shortlink
+Vary=Accept-Encoding
+X-Varnish=1992708669 1992708488
+Age=0
+Via=1.1 varnish

@@ -1,0 +1,20 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Content-Language=en
+Content-Type=text/html; charset=utf-8
+ETag="1394763506-0"
+Last-Modified=Fri, 14 Mar 2014 02:18:26 GMT
+Link=</article/new-music-fabolous-soul-tape-3-mixtape>; rel="canonical",</node/222154>; rel="shortlink"
+Server=Apache/2.2.22 (Amazon)
+X-Drupal-Cache=HIT
+X-Generator=Drupal 7 (http://drupal.org)
+X-Powered-By=PHP/5.3.9-ZS5.6.0 ZendServer/5.0
+X-Varnish=1427170093 1427170091
+X-Varnish-Cache=HIT
+Vary=Cookie
+Cache-Control=public, max-age=600
+Expires=Fri, 14 Mar 2014 02:42:04 GMT
+Date=Fri, 14 Mar 2014 02:32:04 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+Set-Cookie=ZDEDebuggerPresent=php,phtml,php3; path=/

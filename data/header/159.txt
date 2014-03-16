@@ -1,0 +1,10 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:19:14 GMT
+Server=Apache/2.2.3 (CentOS)
+X-Powered-By=PHP/5.2.5
+Vary=Accept-Encoding,Cookie
+Cache-Control=max-age=3, must-revalidate
+WP-Super-Cache=Served supercache file from PHP
+Connection=close
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

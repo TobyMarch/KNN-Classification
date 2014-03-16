@@ -1,0 +1,23 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache
+X-Source-Host=428817-webpwb02.myplaydirect.com
+Cache-Control=public, max-age=900
+Last-Modified=Fri, 14 Mar 2014 02:08:32 +0000
+Expires=Sun, 11 Mar 1984 12:00:00 GMT
+Vary=Cookie
+ETag="1394762912"
+P3P=CP=HONK
+Content-Type=text/html; charset=utf-8
+X-V-I-TTL=1200
+X-Req-Host=www.billyjoel.com
+X-Req-Url=/discography
+X-Created=Fri, 14 Mar 2014 02:08:32 GMT
+Content-Length=46885
+Accept-Ranges=bytes
+Date=Fri, 14 Mar 2014 02:21:40 GMT
+X-Varnish=992580236 992486918
+Age=788
+Via=1.1 varnish
+Connection=keep-alive
+X-V-Outer=HIT
+X-V-TTL=412

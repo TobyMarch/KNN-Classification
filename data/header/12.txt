@@ -1,0 +1,22 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=nginx
+Content-Type=text/html; charset=utf-8
+X-Drupal-Cache=MISS
+Etag="1394763292-0"
+P3P=CP="CURa ADMa OUR UNI INT STA PRE COM NAV NOI COR ONL"
+Content-Language=en
+Link=<http://www.allamericanrejects.com/music>; rel="shortlink",<http://www.allamericanrejects.com/music>; rel="canonical"
+X-Generator=Drupal 7 (http://drupal.org)
+Cache-Control=public, max-age=300
+Last-Modified=Fri, 14 Mar 2014 02:14:52 +0000
+Expires=Sun, 19 Nov 1978 05:00:00 GMT
+Vary=Cookie,Accept-Encoding
+X-AH-Environment=prod
+Transfer-Encoding=chunked
+Date=Fri, 14 Mar 2014 02:14:53 GMT
+X-Varnish=1152270026 1152269929
+Age=0
+Via=1.1 varnish
+Connection=keep-alive
+X-Cache=HIT
+X-Cache-Hits=1

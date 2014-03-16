@@ -1,0 +1,9 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=Apache-Coyote/1.1
+Content-Length=54869
+Content-Type=text/html;charset=utf-8
+X-Powered-By=Servlet 2.4; JBoss-4.3.0.GA_CP01 (build: SVNTag=JBPAPP_4_3_0_GA_CP01 date=200804211657)/Tomcat-5.5
+Access-Control-Allow-Origin=http://c.brightcove.com
+Cache-Control=max-age=1157
+Date=Fri, 14 Mar 2014 02:20:12 GMT
+Connection=keep-alive

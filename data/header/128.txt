@@ -1,0 +1,21 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Server=nginx
+Content-Type=text/html; charset=utf-8
+X-Drupal-Cache=MISS
+ETag="1394763255-0"
+P3P=CP="CURa ADMa OUR UNI INT STA PRE COM NAV NOI COR ONL"
+Content-Language=en
+Link=<http://www.greenday.com/>; rel="canonical"
+X-Generator=Drupal 7 (http://drupal.org)
+Last-Modified=Fri, 14 Mar 2014 02:14:15 +0000
+X-AH-Environment=prod
+X-Varnish=1425889448 1425880933
+X-Cache-Hits=12
+X-Age=150
+Expires=Fri, 14 Mar 2014 02:18:12 GMT
+Cache-Control=max-age=0, no-cache
+Pragma=no-cache
+Date=Fri, 14 Mar 2014 02:18:12 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding

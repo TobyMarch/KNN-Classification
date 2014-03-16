@@ -1,0 +1,13 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Cache-Control=no-cache
+Pragma=no-cache,no-cache
+Content-Type=text/html; charset=utf-8
+Expires=-1,-1
+Server=Microsoft-IIS/7.5
+Set-Cookie=ASP.NET_SessionId=4sx0k5nzpsm1aumrqm0lejas; path=/; HttpOnly
+X-AspNetMvc-Version=3.0
+X-AspNet-Version=4.0.30319
+X-Powered-By=ASP.NET
+Access-Control-Allow-Origin=*
+Date=Fri, 14 Mar 2014 02:16:15 GMT
+Content-Length=21403

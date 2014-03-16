@@ -1,0 +1,18 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Last-Modified=Fri, 14 Mar 2014 02:16:17 GMT
+x-apple-translated-wo-url=/WebObjects/MZStore.woa/wa/viewArtist?id=19507907&cc=us&urlDesc=/cary-brothers
+x-apple-orig-url=https://itunes.apple.com/us/artist/cary-brothers/id19507907
+x-apple-application-site=NWK
+apple-timing-app=333 ms
+x-apple-aka-ttl=Generated Thu Mar 13 19:16:17 PDT 2014, Expires Thu Mar 13 19:17:17 PDT 2014, TTL 60s
+x-apple-application-instance=1002601
+Content-Type=text/html; charset=UTF-8
+x-webobjects-loadaverage=0
+x-apple-jingle-correlation-key=N5YR5NVCFRISA
+Server=ATS/4.1.0
+Cache-Control=no-transform, max-age=60
+Date=Fri, 14 Mar 2014 02:16:17 GMT
+Transfer-Encoding=chunked
+Connection=keep-alive
+Connection=Transfer-Encoding
+X-Apple-Partner=origin.0

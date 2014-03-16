@@ -1,0 +1,8 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:17:00 GMT
+Server=Apache/2.0.52 (Red Hat)
+X-Powered-By=PHP/5.2.6
+X-UA-Compatible=IE=edge,chrome=1
+Connection=close
+Transfer-Encoding=chunked
+Content-Type=text/html; charset=UTF-8

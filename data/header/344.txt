@@ -1,0 +1,11 @@
+Server HTTP version, Response code: HTTP/1.1 200 OK
+Date=Fri, 14 Mar 2014 02:24:20 GMT
+Server=Microsoft-IIS/6.0
+X-Powered-By=ASP.NET
+Content-Length=11047
+Content-Type=text/html
+Expires=Fri, 14 Mar 2014 02:24:20 GMT
+Set-Cookie=CSTMEVENTID=; path=/
+Set-Cookie=userbasketid=5LkQTF0SUVTE4cjN2YTNxMCMy0DM0EDQxMzM5EjMyOCM30iN34C1z4jLxECNaRFWCJ1VaNV%2BWZ%2B%2B%2B%2B%2B%2B%2B; path=/
+Set-Cookie=ASPSESSIONIDCSASCCRQ=DEIGDOOCAKPBDBPBOPKLBGBH; path=/
+Cache-control=private
